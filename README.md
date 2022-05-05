@@ -31,9 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em React com NextJS que utiliza a biblioteca de componentes Chakra UI que se resume em um repositório de imagens, onde você pode adicionar imagens identificadas por título e descrição.
+O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em React com NextJS que utiliza a biblioteca de componentes Chakra UI e as bibliotecas voltadas para armazenamento de informações (banco de dados) FaunaDB e ImgBB.
 
-upfi foi desenvolvido utilizando o framework NextJS utilizando o Chakra UI para montagem da interface e para questões de banco de dados, FaunaDB e ImgBB.
+upfi foi desenvolvido utilizando o framework NextJS utilizando o Chakra UI para montagem da interface e se resume em um repositório de imagens, onde você pode adicionar imagens identificadas por título e descrição que serão armazenadas em um banco de dados.
 
 Este é um projeto desenvolvido como prática das aulas do Chapter IV da trilha ReactJS do **[Programa Ignite](https://www.rocketseat.com.br/ignite)** da Rocketseat.
 
